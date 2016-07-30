@@ -1,0 +1,9 @@
+
+{
+  "name": "alarms",
+  "description": "Alarms for AWS resources",
+  "memory": 128,
+  "timeout": 5,
+  "environment": {},
+  "role": "arn:aws:iam:::role/lambda_function"
+}
